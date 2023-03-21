@@ -1,0 +1,73 @@
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe.config
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.pdb
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csprojResolveAssemblyReference.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\MainWindow.baml
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\MainWindow.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\App.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect_MarkupCompile.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.g.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.Properties.Resources.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.GenerateResource.Cache
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.pdb
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe.config
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.pdb
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\MainWindow.baml
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\MainWindow.g.cs
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\App.g.cs
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect_MarkupCompile.cache
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.g.resources
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.exe
+C:\Users\Matheus\Desktop\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.pdb
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe.config
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.pdb
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\MainWindow.baml
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\MainWindow.g.cs
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\App.g.cs
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect_MarkupCompile.cache
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.g.resources
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.Properties.Resources.resources
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.CopyComplete
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.exe
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.pdb
+C:\Users\Matheus\Desktop\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\InputManagement.dll
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe.config
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.pdb
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\InputManagement.dll
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\MainWindow.baml
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\MainWindow.g.cs
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\App.g.cs
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect_MarkupCompile.cache
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.g.resources
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.exe
+C:\Users\Matheus\Desktop\Trabalho_Kinect\kinect_trab\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.pdb
